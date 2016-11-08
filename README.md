@@ -12,7 +12,7 @@ Setup:
 - Restart the server and enjoy.
 
 Commands:
-- /redeem <code> - This will redeem the Code <code> providing it exists.
+- /redeem [code] - This will redeem the Code [code] providing it exists.
 
 Important:
 - Redeemed data is persistant through restarts and reload and is stored via UUID, your players can only redeem a Code once.
