@@ -1,0 +1,11 @@
+name: Codes
+version: 1.0.0
+author: GiansCode
+main: com.gianscode.codes.Main
+description: Create Codes that players can redeem for rewards.
+
+commands:
+    redeem:
+        usage: /<command>
+        aliases: [r]
+        description: Attempt to redeem Codes.

@@ -1,0 +1,9 @@
+codes:
+    'example':
+        commands:
+        - "eco give %player% 100"
+        
+messages:
+    alreadyRedeemed: "&cYou have already redeemed the Code %code%!"
+    invalidCode: "&c%code% does not exist!"
+    successfullyRedeemed: "&aSuccessfully redeemed the Code %code%!"
